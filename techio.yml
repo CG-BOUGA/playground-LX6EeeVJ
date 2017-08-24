@@ -1,5 +1,5 @@
-title: Simple Python template
+title: Simple Scala template
 
 plan:
-  - title: Python Snippet
+  - title: Scala Snippet
     statement: statement.md
